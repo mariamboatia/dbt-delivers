@@ -1,5 +1,3 @@
-# dbt-delivers
- This is a practice repository for transforming a dataset on Food Delivery in France in dbt cloud
 </p>
 <h1 align="center"> A Guide to Journaling </h1>
 <img src="Peaceful moments.jpeg" alt="Journal pic" width="600px" height="250px">
