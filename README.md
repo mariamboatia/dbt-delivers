@@ -1,6 +1,6 @@
 </p>
 <h1 align="center"> A Guide to Journaling </h1>
-<img src="Peaceful moments.jpeg" alt="Journal pic" width="600px" height="250px">
+<img src="Peaceful moments.jpeg" alt="Journal pic" width="400px" height="250px">
 
 <!-- journaling guide -->
 ## Journaling Guide
